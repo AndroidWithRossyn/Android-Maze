@@ -1,7 +1,5 @@
 <h1 align="center">Maze: Puzzle and Relaxing Game</h1>
   
-
-
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/AndroidWithRossyn/Android-Maze)
@@ -53,6 +51,12 @@ Your task in this popular game is simple: find the exit and escape the maze! Swi
 * dark mode where you only have a limited field of vision
 * timed mode where you have to beat the maze as fast as you can.
   
+
+### Find this Repository useful? ❤️
+Support it by joining stargazers for this repository. ⭐
+
+Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next creations! 🤩
+
 ## Screenshots:
 
  <p align="center">
